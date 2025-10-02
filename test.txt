@@ -1,1 +1,2 @@
 this is a project to learn git and other programming skils
+This project is working on Ubuntu server, too.
